@@ -8,7 +8,6 @@ What is stored here:
 - Personal coding projects
 - HackTheBox and TryHackMe writeups
 - Certification information
-- Proof of concept attacks
 
 I can be contacted at the following:
 
