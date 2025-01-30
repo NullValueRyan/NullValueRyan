@@ -11,7 +11,7 @@ What is stored here:
 
 I can be contacted at the following:
 
-- Discord: Der Scharfschütze#5163
+- Discord: __Spaghetti__
 - LinkedIn: [Here](https://www.linkedin.com/in/ryan-wehrman/)
 
 For more information my personal website can be found [here](ryanwehrman.com)!
